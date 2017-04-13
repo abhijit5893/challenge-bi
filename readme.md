@@ -3,6 +3,8 @@
 ## BI Challenge
 In this task you have to create an algorithm that optimizes class meetings patterns around campus by efficiently allocating rooms to classes.
 
+The task is to minimize the ROOM_COST with the allocated rooms.
+
 
 Files:
 
@@ -27,3 +29,6 @@ Files:
     - ACADEMIC_CARRIER_CODE
     - CAMPUS_CODE
     - ROOM_COST
+    
+    
+    
